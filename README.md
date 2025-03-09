@@ -110,7 +110,7 @@ CREATE TABLE IF NOT EXISTS posted_reddit (
 
 # Автор
 Telegram @djuli1337
-[КЛИК](t.me/djuli1337)
+[КЛИК](https://t.me/djuli1337)
 
 # Дополнительная информация
 
