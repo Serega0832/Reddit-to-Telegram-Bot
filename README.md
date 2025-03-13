@@ -111,6 +111,7 @@ CREATE TABLE IF NOT EXISTS posted_reddit (
 # Автор
 Telegram @djuli1337
 [КЛИК](https://t.me/djuli1337)
+[Пример канала телеграм]([https://t.me/djuli1337](https://t.me/fire_historyy))
 
 # Дополнительная информация
 
